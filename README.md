@@ -12,3 +12,4 @@ Exercises and mini-projects from freeCodeCamp's Python certification, one folder
 - [`food-delivery-eligibility-checker/`](food-delivery-eligibility-checker/) — nested conditionals
   - `problem_1.py` — Food Delivery Eligibility Checker
   - `problem_2.py` — Library Study Session Planner
+  - `problem_3.py` — Extended Travel Commute Planner
