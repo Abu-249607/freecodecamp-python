@@ -14,3 +14,4 @@ Exercises and mini-projects from freeCodeCamp's Python certification, one folder
   - `problem_2.py` — Library Study Session Planner
   - `problem_3.py` — Extended Travel Commute Planner
 - [`apply-discount-function/`](apply-discount-function/) — functions, input validation, `isinstance()`
+- [`caesar-cipher/`](caesar-cipher/) — string translation tables, default arguments, encode/decode symmetry
