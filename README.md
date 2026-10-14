@@ -18,3 +18,4 @@ Exercises and mini-projects from freeCodeCamp's Python certification, one folder
 - [`rpg-character-creator/`](rpg-character-creator/) — multi-field input validation, string formatting
 - [`kitchen-inventory-tracker/`](kitchen-inventory-tracker/) — variable scope, parameter shadowing, return values
 - [`pin-extractor/`](pin-extractor/) — nested loops, `enumerate()`, string splitting, processing a list of inputs
+- [`number-pattern-generator/`](number-pattern-generator/) — `for` loops with `range()`, `join()`, input validation
